@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!--  SNAKE animation -->
 
 <div>
-  ![Snake animation] (https://github.com/elias-lee/elias-lee/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/elias-lee/elias-lee/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
